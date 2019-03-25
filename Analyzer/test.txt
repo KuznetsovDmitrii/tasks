@@ -1,0 +1,9 @@
+program sq;
+var i: integer;
+    a: integer;
+Begin
+Read(i);
+Writeln;
+a:=i*i; `2`
+Readln;
+End.
